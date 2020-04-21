@@ -1,6 +1,6 @@
 {
-  "name": "TODO",
-  "description": "TODO",
+  "name": "businesscard",
+  "description": "personal business card web application",
   "version": "0.0.1",
   "scripts": {
     "dev": "sapper dev",
