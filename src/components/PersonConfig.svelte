@@ -16,8 +16,8 @@
 		githubUrl: "https://github.com/lukasw93",
 		aboutHtmlItems: [
 			{ key: "<div class='mt-4'/>Core Values", value: "<div class='mt-4'/>Authenticity, Equality,<br/>Responsibility, Open-Minded,<br/>Lifelong Learning" },
-			{ key: "Passion", value: "Nature, Travel,<br/>Books, Sports,<br/>IT & Finance" },
-			{ key: "Favorite Books", value: "Atomic Habits<br/>The Big Five For Life" },
+			{ key: "Passion", value: "Nature, Travel, Books,<br/>Sports, IT & Finance" },
+			{ key: "Favorite Books", value: "Atlas Obscura, Atomic Habits, Rich Dad Poor Dad, Big Five For Life" },
 			{ key: "Favorite Sports", value: "Running, Hiking" }
 		],
 		bigFiveHtmlItems: [ "<div class='mt-4'/>Live a healthy & meaningful life", "Appreciate family & friends",

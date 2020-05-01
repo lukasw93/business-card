@@ -5,5 +5,6 @@ yarn-error.log
 /cypress/screenshots/
 /__sapper__/
 *firebase*
+/src/routes/code/*
 !/src/routes/code/007.svelte
 *weichselbraun*gip
